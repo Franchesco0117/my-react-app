@@ -32,7 +32,7 @@ function App() {
       </p>
       
       <GenericCard
-        title="Perro"
+        title="Perrot"
         bodyText="Description of card."
         imageUrl="https://pbs.twimg.com/media/GVWR4K3WUAA4iZX?format=jpg&name=small"
         buttonText="card"
